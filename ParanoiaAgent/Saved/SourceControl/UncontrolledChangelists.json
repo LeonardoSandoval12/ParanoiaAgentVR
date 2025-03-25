@@ -61,7 +61,13 @@
 				"X:/Repos/UE/ParanoiaVR/ParanoiaAgentVR/ParanoiaAgent/Content/Assets/M_FPGun.uasset",
 				"X:/Repos/UE/ParanoiaVR/ParanoiaAgentVR/ParanoiaAgent/Content/Assets/windowpc_Skeleton.uasset",
 				"X:/Repos/UE/ParanoiaVR/ParanoiaAgentVR/ParanoiaAgent/Content/Assets/windowpc_PhysicsAsset.uasset",
-				"X:/Repos/UE/ParanoiaVR/ParanoiaAgentVR/ParanoiaAgent/Content/Cinematic/DemoTrailer.uasset"
+				"X:/Repos/UE/ParanoiaVR/ParanoiaAgentVR/ParanoiaAgent/Content/Cinematic/DemoTrailer.uasset",
+				"X:/Repos/UE/ParanoiaVR/ParanoiaAgentVR/ParanoiaAgent/Content/Deko_MatrixDemo/Apartment/Materials/MI_DeskLamp_A01.uasset",
+				"X:/Repos/UE/ParanoiaVR/ParanoiaAgentVR/ParanoiaAgent/Content/StarterContent/Blueprints/Angel.uasset",
+				"X:/Repos/UE/ParanoiaVR/ParanoiaAgentVR/ParanoiaAgent/Content/ia/AI_AngelController.uasset",
+				"X:/Repos/UE/ParanoiaVR/ParanoiaAgentVR/ParanoiaAgent/Content/ia/BT/Angel_TasksBoard.uasset",
+				"X:/Repos/UE/ParanoiaVR/ParanoiaAgentVR/ParanoiaAgent/Content/ia/BT/Angel_Movement.uasset",
+				"X:/Repos/UE/ParanoiaVR/ParanoiaAgentVR/ParanoiaAgent/Content/ia/BT_Task/BTTask_MoveRANDOMlOC.uasset"
 			]
 		}
 	]
