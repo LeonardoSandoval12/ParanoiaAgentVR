@@ -56,7 +56,12 @@
 				"X:/Repos/UE/ParanoiaVR/ParanoiaAgentVR/ParanoiaAgent/Content/Structures/Angel/Perdit_Cloth.uasset",
 				"X:/Repos/UE/ParanoiaVR/ParanoiaAgentVR/ParanoiaAgent/Content/Structures/Angel/Robe.uasset",
 				"X:/Repos/UE/ParanoiaVR/ParanoiaAgentVR/ParanoiaAgent/Content/Structures/Angel/Perdit_Eye_001.uasset",
-				"X:/Repos/UE/ParanoiaVR/ParanoiaAgentVR/ParanoiaAgent/Content/Structures/Angel/Perdit_Eye_002.uasset"
+				"X:/Repos/UE/ParanoiaVR/ParanoiaAgentVR/ParanoiaAgent/Content/Structures/Angel/Perdit_Eye_002.uasset",
+				"X:/Repos/UE/ParanoiaVR/ParanoiaAgentVR/ParanoiaAgent/Content/Assets/windowpc.uasset",
+				"X:/Repos/UE/ParanoiaVR/ParanoiaAgentVR/ParanoiaAgent/Content/Assets/M_FPGun.uasset",
+				"X:/Repos/UE/ParanoiaVR/ParanoiaAgentVR/ParanoiaAgent/Content/Assets/windowpc_Skeleton.uasset",
+				"X:/Repos/UE/ParanoiaVR/ParanoiaAgentVR/ParanoiaAgent/Content/Assets/windowpc_PhysicsAsset.uasset",
+				"X:/Repos/UE/ParanoiaVR/ParanoiaAgentVR/ParanoiaAgent/Content/Cinematic/DemoTrailer.uasset"
 			]
 		}
 	]
