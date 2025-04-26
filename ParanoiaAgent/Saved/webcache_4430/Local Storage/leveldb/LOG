@@ -1,3 +1,2 @@
-2025/03/24-14:13:23.335 45e0 Reusing MANIFEST X:/Repos/UE/ParanoiaVR/ParanoiaAgentVR/ParanoiaAgent/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
-2025/03/24-14:13:23.336 45e0 Recovering log #3
-2025/03/24-14:13:23.336 45e0 Reusing old log X:/Repos/UE/ParanoiaVR/ParanoiaAgentVR/ParanoiaAgent/Saved/webcache_4430\Local Storage\leveldb/000003.log 
+2025/04/26-00:11:52.137 3fc4 Creating DB C:/Repos/RV/ParanoiaAgentVR/ParanoiaAgent/Saved/webcache_4430\Local Storage\leveldb since it was missing.
+2025/04/26-00:11:52.153 3fc4 Reusing MANIFEST C:/Repos/RV/ParanoiaAgentVR/ParanoiaAgent/Saved/webcache_4430\Local Storage\leveldb/MANIFEST-000001
